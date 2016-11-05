@@ -34,7 +34,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 
 | [M3](https://corporate.m3.com/recruit/job/) | Minato-ku, Tokyo | Healthcare
 
-| [Rakuten](http://global.rakuten.com/corp/careers/engineering/) | Satagaya-ky, Tokyo | Multiple Sectors
+| [Rakuten](http://global.rakuten.com/corp/careers/engineering/) | Setagaya-ky, Tokyo | Multiple Sectors
 
 | [Recruit](http://www.recruit.jp/employment/) | Tokyo & Possibly other locations | Multiple Sectors 
 	Note:  Recruit has *many* subsidiary companies/divisions
