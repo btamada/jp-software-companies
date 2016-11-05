@@ -51,8 +51,9 @@ The assumption is that if you are applying to software companies in Japan you wi
 
 # Japan Startups
 
-** Note: VC-funding and capital are a lot more sparse for startups in Japan. Expect less pay.
-** Most of the companies below should be open to the idea of foreigners applying so long as they speak and read Japanese.
+**Note:** VC-funding and capital are a lot more sparse for startups in Japan. Expect less pay.
+
+Most of the companies below should be open to the idea of foreigners applying so long as they speak and read Japanese.
 
 | [Abeja](https://abeja.asia) | Minato-ku, Tokyo | Data Analytics
 
