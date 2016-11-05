@@ -16,7 +16,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | --- | --- | --- |
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan?base_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=tokyo-area-japan&cache) | Shinagawa-ku, Tokyo | Multiple sectors |
 | [Abeja](https://abeja.asia) | Minato-ku, Tokyo | Data Analytics |
-| [DeNa](http://dena.com/intl/careers/positions/) | Shibuya-ku, Tokyo | Primarily Mobile |
+| [DeNa](http://www.denajobs.com/positions?engineering) | Shibuya-ku, Tokyo | Primarily Mobile |
 | [DMM](http://www.dmm.com/recruit/) | Tokyo | E-Commerce (Video), Mobile, Education |
 | [Google](https://www.google.com/about/careers/locations/tokyo/) | Minato-ku, Tokyo | Multiple Sectors |
 | [IBM](http://www-07.ibm.com/employment/jp/cp01/) | Tokyo | Software, IT, Consulting |
