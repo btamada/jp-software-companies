@@ -24,7 +24,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 
 | [Google](https://www.google.com/about/careers/locations/tokyo/) | Minato-ku, Tokyo | Multiple Sectors
 
-| [IBM](http://www-07.ibm.com/employment/jp/cp01/) | Tokyo | Multiple Sectors?
+| [IBM](http://www-07.ibm.com/employment/jp/cp01/) | Tokyo | Software, IT, Consulting
 
 | [i-mobile](https://www.i-mobile.co.jp/recruit/) | Shibuya-ku, Tokyo | Advertising
 
