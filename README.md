@@ -7,7 +7,7 @@
 ## Open
 | [Kaisha no Hyouban](https://en-hyouban.com)
 
-# Japan Software Company List (Alphabetized)
+# Japan Software Company List
 
 **NOTE:**
 The assumption is that if you are applying to software companies in Japan you will have some level of proficiency in Japanese. Several of the links posted here are going to be in Japanese and thus require you to be able to read Japanese. Please keep that in mind when applying for these jobs.
