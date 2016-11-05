@@ -32,9 +32,9 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Wantedly](https://us.wantedly.com/companies/wantedly/projects) | Minato-ku, Tokyo | Employment services |
 | [Yahoo! Japan](http://hr.yahoo.co.jp/job-info/) | Minato-ku, Tokyo | Advertising, E-Commerce, ISP |
 
-# Japan Startups
+# Japan "Startups"
 
-**Note:** VC-funding and capital are a lot more sparse for startups in Japan. Expect less pay.
+**Note:** VC-funding and capital are a lot more sparse for these companies in Japan. Expect less pay.
 
 Most of the companies below should be open to the idea of foreigners applying so long as they speak and read Japanese. Companies range in size from 20-200 employees (incl. part-timers)
 
@@ -44,12 +44,15 @@ Most of the companies below should be open to the idea of foreigners applying so
 | [Bitflyer](https://bitflyer.jp/Recruit) | Minato-ku, Tokyo | Block-chain, Bitcoin buying and selling |
 | [Cross Language](http://www.crosslanguage.co.jp/company/recruit.html) | Chiyoda-ku, Tokyo | Translation |
 | [Fixstars](http://www.fixstars.com/recruit/ja/jobcategory/) | Shinagawa-ku, Tokyo | Hardware |
+| [I And C-Cruise](https://www.iacc.co.jp/recruit/) | Minato-ku, Tokyo | Energy, Lifestyle |
 | [Micro-wave](http://www.micro-wave.net/recruit/career/) | Shibuya-ku, Tokyo | Marketing |
 | [Minna no Market](http://www.minma.jp/careers/) | Shinagawa-ku, Tokyo | Online Marketplace |
 | [Mobile Factory](http://www.mobilefactory.jp/recruit/detail) | Shinagawa-ku, Tokyo | Mobile |
+| [Netyear](http://recruit.netyear.net/) | Chuo-ku, Tokyo | Media, Consulting |
 | [Oz Vision](http://www.oz-vision.co.jp/recruit/career_detail/) | Chiyoda-ku, Tokyo | Product development |
+| [Pivot](https://pivot.jp/recruit) | Minato-ku, Tokyo | Consulting
 | [Pixta](https://recruit.pixta.co.jp/) | Shibuya-ku, Tokyo | Digital Photo Marketplace |
-| [Plan-B](https://www.plan-b.co.jp/recruit/) | Osaka | Marketing, SEO,  |
+| [Plan-B](https://www.plan-b.co.jp/recruit/) | Osaka | Marketing, SEO |
 | [Rise UP](https://r-up.jp/recruit/) | Osaka | Wholesale, E-commerce, Marketing |
 | [UUUM](http://www.uuum.co.jp/recruit) | Minato-ku, Tokyo | Marketing |
 | [Yumemi](http://recruit.yumemi.co.jp/) | Setagaya-ku, Tokyo | Consulting |
