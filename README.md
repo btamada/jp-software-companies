@@ -1,6 +1,7 @@
 # Japan's Glassdoors - Make informed decisions
 ## Limited / Review-walled / Pay-walled
 | [JobTalk](https://jobtalk.jp)
+
 | [Vorkers](https://www.vorkers.com)
 
 ## Open
