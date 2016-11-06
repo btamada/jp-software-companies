@@ -30,7 +30,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Naver](https://linecorp.com/ja/career/ja/all) | Shibuya-ku, Tokyo | Mobile | |
 | [Rakuten](http://global.rakuten.com/corp/careers/engineering/) | Setagaya-ku, Tokyo | Multiple Sectors | No |
 | [Recruit](http://www.recruit.jp/employment/) | Tokyo & Possibly other locations | Multiple Sectors | |
-| [Septeni](https://www.septeni.co.jp/en/recruit/) | Shinjuku-ky, Tokyo | Marketing | No |
+| [Septeni](https://www.septeni.co.jp/en/recruit/) | Shinjuku-ku, Tokyo | Marketing | No |
 | [Wantedly](https://us.wantedly.com/companies/wantedly/projects) | Minato-ku, Tokyo | Employment services | |
 | [Yahoo! Japan](http://hr.yahoo.co.jp/job-info/) | Minato-ku, Tokyo | Advertising, E-Commerce, ISP | |
 
