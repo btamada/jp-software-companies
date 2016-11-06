@@ -29,7 +29,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [IBM](http://www-07.ibm.com/employment/jp/cp01/) | Tokyo | Software, IT, Consulting | |
 | [i-mobile](https://www.i-mobile.co.jp/recruit/) | Shibuya-ku, Tokyo | Advertising | |
 | [Interspace](https://www.interspace.ne.jp/recruit/offer/) | Minato-ku, Tokyo | Advertising | |
-| [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | Tokyo (Yes) Fukuoka (No) |
+| [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | Tokyo (Yes) <br /> Fukuoka (No) |
 | [M3](https://corporate.m3.com/recruit/job/) | Minato-ku, Tokyo | Healthcare | |
 | [Microsoft](http://microsoft-college.jp/) | Shibuya-ku, Tokyo | Multiple Sectors | No |
 | [MediWeb](http://www.mediweb.jp/job.html) | Tokyo | Healthcare | |
