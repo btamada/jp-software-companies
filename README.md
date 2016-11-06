@@ -7,7 +7,7 @@
 ## Open
 | [Kaisha no Hyouban](https://en-hyouban.com)
 
-# Japan Software Company List
+# Japan Software Companies
 
 **NOTE:**
 The assumption is that if you are applying to software companies in Japan you will have some level of proficiency in Japanese. Several of the links posted here are going to be in Japanese and thus require you to be able to read Japanese. Please keep that in mind when applying for these jobs.
@@ -25,11 +25,11 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [GMO](http://recruit.gmo.jp/) | Tokyo & Other? | Multiple Sectors | |
 | [Google](https://www.google.com/about/careers/locations/tokyo/) | Minato-ku, Tokyo | Multiple Sectors | No |
 | [GREE](http://jobs.gree.net/jp/ja/career/) | Minato-ku, Tokyo | Social | No |
-| [GungHu](http://www.gungho.co.jp/recruit/) | Tokyo | Mobile | |
+| [GungHo](http://www.gungho.co.jp/recruit/) | Tokyo | Mobile | |
 | [IBM](http://www-07.ibm.com/employment/jp/cp01/) | Tokyo | Software, IT, Consulting | |
 | [i-mobile](https://www.i-mobile.co.jp/recruit/) | Shibuya-ku, Tokyo | Advertising | |
 | [Interspace](https://www.interspace.ne.jp/recruit/offer/) | Minato-ku, Tokyo | Advertising | |
-| [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | |
+| [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | Tokyo (Yes), Fukuoka (No) |
 | [M3](https://corporate.m3.com/recruit/job/) | Minato-ku, Tokyo | Healthcare | |
 | [Microsoft](http://microsoft-college.jp/) | Shibuya-ku, Tokyo | Multiple Sectors | No |
 | [MediWeb](http://www.mediweb.jp/job.html) | Tokyo | Healthcare | |
