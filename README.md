@@ -33,9 +33,9 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Interspace](https://www.interspace.ne.jp/recruit/offer/) | Minato-ku, Tokyo | Advertising | |
 | [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | Tokyo (Yes) <br /> Fukuoka (No) |
 | [M3](https://corporate.m3.com/recruit/job/) | Minato-ku, Tokyo | Healthcare | |
+| [MediWeb](http://www.mediweb.jp/job.html) | Tokyo | Healthcare | |
 | [Microsoft](http://microsoft-college.jp/) | Shibuya-ku, Tokyo | Multiple Sectors | No |
 | [Morgan Stanley](http://www.morganstanley.co.jp/msinjapan/careers/index.html) | Tokyo | Finance | |
-| [MediWeb](http://www.mediweb.jp/job.html) | Tokyo | Healthcare | |
 | [Nomura](https://www.nomura.co.jp/recruit/) | Tokyo | Finance | Yes |
 | [Rakuten](http://global.rakuten.com/corp/careers/engineering/) | Setagaya-ku, Tokyo | Multiple Sectors | No |
 | [Recruit](http://www.recruit.jp/employment/) | Tokyo & Possibly other locations | Multiple Sectors | |
@@ -62,9 +62,9 @@ Most of the companies below should be open to the idea of foreigners applying so
 | [iKnow](https://iknow.jp/) | Tokyo | Education | No |
 | [Kakaku](http://corporate.kakaku.com/recruit) | Tokyo | Marketplace | Yes |
 | [Lang-8](https://www.wantedly.com/companies/lang-8/projects) | Tokyo | Education | No |
+| [Mercari](https://www.mercari.com/jp/jobs/) | Tokyo | Mobile | Yes |
 | [Micro-wave](http://www.micro-wave.net/recruit/career/) | Shibuya-ku, Tokyo | Marketing | Yes |
 | [Minna no Market](http://www.minma.jp/careers/) | Shinagawa-ku, Tokyo | Online Marketplace | Yes |
-| [Mercari](https://www.mercari.com/jp/jobs/) | Tokyo | Mobile | Yes |
 | [Mobile Factory](http://www.mobilefactory.jp/recruit/detail) | Shinagawa-ku, Tokyo | Mobile | Yes |
 | [Moneytree](https://moneytree.jp/careers/) | Tokyo | Finance | No |
 | [Netyear](http://recruit.netyear.net/) | Chuo-ku, Tokyo | Media, Consulting | Yes |
