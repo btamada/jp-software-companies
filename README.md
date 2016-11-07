@@ -68,6 +68,7 @@ Most of the companies below should be open to the idea of foreigners applying so
 | [Moneytree](https://moneytree.jp/careers/) | Tokyo | Finance | No |
 | [Netyear](http://recruit.netyear.net/) | Chuo-ku, Tokyo | Media, Consulting | Yes |
 | [Oz Vision](http://www.oz-vision.co.jp/recruit/career_detail/) | Chiyoda-ku, Tokyo | Product development | Yes |
+| [Paidy](https://paidy.com) | Tokyo | FinTech | |
 | [Pivot](https://pivot.jp/recruit) | Minato-ku, Tokyo | Consulting | Yes |
 | [Pixta](https://recruit.pixta.co.jp/) | Shibuya-ku, Tokyo | Digital Photo Marketplace | Yes |
 | [Plan-B](https://www.plan-b.co.jp/recruit/) | Osaka | Marketing, SEO | Yes |
