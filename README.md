@@ -24,6 +24,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Dwango](http://dwango.co.jp/recruit/) | Tokyo | Telecommunications & Media | |
 | [Fast Retailing](https://www.fastretailing.com/employment/ja/) | Tokyo | Retail | |
 | [GMO](http://recruit.gmo.jp/) | Tokyo & Other? | Multiple Sectors | |
+| [Goldman Sachs](http://www.goldmansachs.com/japan/careers/) | Minato-ku, Tokyo | Finance | Yes |
 | [Google](https://www.google.com/about/careers/locations/tokyo/) | Minato-ku, Tokyo | Multiple Sectors | No |
 | [GREE](http://jobs.gree.net/jp/ja/career/) | Minato-ku, Tokyo | Social | No |
 | [GungHo](http://www.gungho.co.jp/recruit/) | Tokyo | Mobile | |
