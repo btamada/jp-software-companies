@@ -15,6 +15,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | Company Name | Location | Industry | Japanese Required? |
 | --- | --- | --- | --- |
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan?base_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=tokyo-area-japan&cache) | Shinagawa-ku, Tokyo | Multiple sectors | |
+| [Barclays](http://joinus.barclays.com/japan/) | Minato-ku, Tokyo | Finance | |
 | [Bizreach](http://www.bizreach.co.jp/recruit/) | Shibuya-ku, Tokyo | B2B Services, Technology R&D | |
 | [Cookpad](https://recruit.cookpad.com/) | Ebisu, Tokyo | Web, Mobile | |
 | [CyberAgent](https://www.cyberagent.co.jp/recruit/) |  Tokyo | Ads, B2B Services | |
@@ -23,6 +24,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Dwango](http://dwango.co.jp/recruit/) | Tokyo | Telecommunications & Media | |
 | [Fast Retailing](https://www.fastretailing.com/employment/ja/) | Tokyo | Retail | |
 | [GMO](http://recruit.gmo.jp/) | Tokyo & Other? | Multiple Sectors | |
+| [Goldman Sachs](http://www.goldmansachs.com/japan/careers/) | Minato-ku, Tokyo | Finance | Yes |
 | [Google](https://www.google.com/about/careers/locations/tokyo/) | Minato-ku, Tokyo | Multiple Sectors | No |
 | [GREE](http://jobs.gree.net/jp/ja/career/) | Minato-ku, Tokyo | Social | No |
 | [GungHo](http://www.gungho.co.jp/recruit/) | Tokyo | Mobile | |
@@ -32,7 +34,9 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [LINE](https://linecorp.com/ja/career/ja/all) | Fukuoka & Shibuya-ku, Tokyo | Mobile | Tokyo (Yes) <br /> Fukuoka (No) |
 | [M3](https://corporate.m3.com/recruit/job/) | Minato-ku, Tokyo | Healthcare | |
 | [Microsoft](http://microsoft-college.jp/) | Shibuya-ku, Tokyo | Multiple Sectors | No |
+| [Morgan Stanley](http://www.morganstanley.co.jp/msinjapan/careers/index.html) | Tokyo | Finance | |
 | [MediWeb](http://www.mediweb.jp/job.html) | Tokyo | Healthcare | |
+| [Nomura](https://www.nomura.co.jp/recruit/) | Tokyo | Finance | Yes |
 | [Rakuten](http://global.rakuten.com/corp/careers/engineering/) | Setagaya-ku, Tokyo | Multiple Sectors | No |
 | [Recruit](http://www.recruit.jp/employment/) | Tokyo & Possibly other locations | Multiple Sectors | |
 | [Retty](https://corp.retty.me/recruit/) | Tokyo | Restaurants, Mobile | |
@@ -62,8 +66,10 @@ Most of the companies below should be open to the idea of foreigners applying so
 | [Minna no Market](http://www.minma.jp/careers/) | Shinagawa-ku, Tokyo | Online Marketplace | Yes |
 | [Mercari](https://www.mercari.com/jp/jobs/) | Tokyo | Mobile | Yes |
 | [Mobile Factory](http://www.mobilefactory.jp/recruit/detail) | Shinagawa-ku, Tokyo | Mobile | Yes |
+| [Moneytree](https://moneytree.jp/careers/) | Tokyo | Finance | No |
 | [Netyear](http://recruit.netyear.net/) | Chuo-ku, Tokyo | Media, Consulting | Yes |
 | [Oz Vision](http://www.oz-vision.co.jp/recruit/career_detail/) | Chiyoda-ku, Tokyo | Product development | Yes |
+| [Paidy](https://paidy.com) | Tokyo | FinTech | |
 | [Pivot](https://pivot.jp/recruit) | Minato-ku, Tokyo | Consulting | Yes |
 | [Pixta](https://recruit.pixta.co.jp/) | Shibuya-ku, Tokyo | Digital Photo Marketplace | Yes |
 | [Plan-B](https://www.plan-b.co.jp/recruit/) | Osaka | Marketing, SEO | Yes |
