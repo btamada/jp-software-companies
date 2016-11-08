@@ -7,7 +7,7 @@
 ## Open
 | [Kaisha no Hyouban](https://en-hyouban.com)
 
-# Japan Large Companies
+# Large Companies
 
 **NOTE:**
 The assumption is that if you are applying to software companies in Japan you will have some level of proficiency in Japanese. Several of the links posted here are going to be in Japanese and thus require you to be able to read Japanese. Please keep that in mind when applying for these jobs.
@@ -46,7 +46,7 @@ The assumption is that if you are applying to software companies in Japan you wi
 | [Wantedly](https://us.wantedly.com/companies/wantedly/projects) | Minato-ku, Tokyo | Employment services | Yes |
 | [Yahoo! Japan](http://hr.yahoo.co.jp/job-info/) | Minato-ku, Tokyo | Advertising, E-Commerce, ISP | |
 
-# Japan "Startups"
+# "Startups"
 
 **Note:** VC-funding and capital are a lot more sparse for these companies in Japan. Expect less pay.
 
