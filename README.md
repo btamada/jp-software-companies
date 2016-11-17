@@ -8,6 +8,7 @@
   * [Company info](#company-info)
   * [Job listings](#job-listings)
   * [Remote work](#remote)
+  * [Visa Process](#visa)
 
 ### <a name="companies">Companies</a>
 
@@ -112,3 +113,47 @@
 #### <a name="remote">Remote work</a>
 * [Companies that allow remote work in Japan](https://github.com/uiureo/remote-in-japan/blob/master/README.en.md)
 * [WeWorkRemotely](https://weworkremotely.com/) - more remote jobs
+
+#### <a name="visa">Visa Process</a>
+Technically speaking there are three Work Visa processes -- Certificate of Eligibility (CoE) route, no CoE Route, and the "Highly Skilled Professional Visa." 
+
+Before covering the process though, lets consider the types of Work Visas. Work Visas in Japan come in many types of varieties but the two types that are most relevant to IT professionals are the "Engineer" work visa type and the "Humanities" work visa type. In practice, the type of work visa you have will confine you to particular jobs and sectors. Receiving these visas can be quite difficult as well and is often outside the scope of any HR, especially a startup's HR. So companies will often employ Visa lawyers which are well versed in how the immigration-visa decision system works.
+
+##### Engineer Work Visa
+The Engineer work visa grants work in highly specilized fields. Software Engineer, Systems Engineer, "Whatever" Engineer basically. This work visa type generally requires **a 4-year degree in the relevant field** to qualify for the visa OR **10 years of *professional* experience**.
+
+##### Humanities Work Visa
+This visa type is kind of a catch-all wild card. This is the type of work visa you would likely receive; for instance, if you were working at an English conversation school (*eikaiwa*). The requirements for this require a **a 4-year degree** or **10 years of *professional* experience**. The type of degree can vary. You might be asking, "If I'm a programmer, why or how would I get this?" I'll cover that in the "Visa Process" section below.
+
+##### Work Visa via CoE
+The CoE route is the easiest method and its the one that most business will/**should** use.
+
+1. After receiving your job offer, HR or potentially a Visa lawyer will contact you and request info from you. This will usually include formal declaration of your previous work history such as where you worked and how long. They may also request information on your education as well, such as what schools you attended, where, and how long; this is likely from Elementary all the way up College. Transcripts may be requested for your college years. Finally, they will want your college diploma. If your college has the option, you may be able to get a notorized **copy** of the diploma and use that instead of your actual diploma. 
+
+2. You will send all of this documentation to the company or lawyer and proceed to wait.
+3. If the immigration process goes smoothly, you should hear back from the company in about 3-4 weeks that they have a CoE and are sending it to you.
+4. Once you receive the CoE, you will have to go to a Japanese Embassy or Consulate with your passport. You will give the Embassy the CoE and your passport. Wait some more.
+5. Depending on the Embassy, your passport should be ready in about 1-3 days, but it could be up to a week. After this, you will go back to the Embassy and pick up your passport. There should now be a page in the passport with your Visa.
+6. You can now enter Japan using a Work Visa.
+
+Everyone getting a job in Japan should either use this method or the Highly Skilled Professional process. The reason is that CoE speeds up the turn around time on the Visa by a lot. Plus, its less work for you. The company will however decide which type of work visa you will receive however. 
+
+To answer the question above, "Why might you have a Humanities work visa if you are a programmer?" Part of what the company will submit to immigration for the CoE, is a statement about why you are a good fit for the position and how it pertains to the requested work visa type. If you do not have a STEM degree of some sort, it can be quite difficult to receive an Engineer work visa. If you have a non-STEM degree or if you STEM degree is too far outside the realm of the job's duties, then companies can try for a Humanities visa which can give them leeway in defining the reason. As a speculative example, a company could say "we are hiring this person to aid in the development process through the use of their English/foreign language skills. They can easily read English documentation and support information better than the staff and will aid in globalization efforts at the company." This de-emphasizes the technical aspects of the role and uses your English skills. 
+
+##### Work Visa without a CoE
+I have personally never done this process, but I have heard it is longer and more difficult.
+
+Since I don't know the process very well, I will merely give the gist of it. In this process, you yourself are requesting a Visa from the Embassy. Some of the documentation is the same: education and work background info, transcripts, diploma. The part that is different though is that you have to provide documentation from the company that will be hiring you that you have a job. This documentation will include information such as salary, what the position will be doing, why you are fit for the position, and potentially other information I'm simply not aware of. Documentation about the company will also need to be submited as well; what they do, how much revenue they take in, etc.
+
+After you have collected this information, you will package it and submit it to the Embassy and wait.
+
+The decision process for a Visa done in this method can take up to 3-4 **months**. This is why most businesses almost always go the CoE route.
+
+If you go this route, I'd probably recommend hiring your own Visa lawyer to improve your odds of getting accepted. Any reputable company shouldn't have you applying for your own Visa though.
+
+##### Highly Skilled Professional Visa
+This is a new (work) visa that was added a few years ago. The point of the visa was to make it easier for skilled professionals to get visas and enter the country. The catch is that you still have to pass the requirements and receive one of the other work visa types such as Engineer, Humanities, or Research. The benefit of this though is that the system has a very clear point based system which you can see whether or not you qualify for and if you do, then apparently the approval process is even quicker.
+
+Plus there are a handful of perks that go along with it as well, such as longer period on your visa and its easier to get permanent residence status. Check out the [Immigration page for more detail](http://www.immi-moj.go.jp/newimmiact_3/en/).
+
+Again, this process will likely be handled by the company if they are trying to use this method.
