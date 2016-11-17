@@ -101,7 +101,7 @@
 #### <a name="company-info">Company info</a>
 * [JobTalk](https://jobtalk.jp) (paid)
 * [Vorkers](https://www.vorkers.com) (paid)
-* [Kaisha no Hyouban](https://www.vorkers.com) (free)
+* [Kaisha no Hyouban](https://en-hyouban.com/) (free)
 * [Heikin Nenshuu](http://heikinnenshu.jp/) (free)
 
 #### <a name="job-listings">Job listings</a>
