@@ -21,6 +21,7 @@
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan)         | Tokyo (Shinagawa-ku)             | Multiple sectors                      |                              |
 | [Barclays](http://joinus.barclays.com/japan/)                                 | Tokyo (Minato-ku)                | Finance                               |                              |
 | [Bizreach](http://www.bizreach.co.jp/recruit/)                                | Tokyo (Shibuya-ku)               | B2B Services, Technology R&D          |                              |
+| [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
 | [Cookpad](https://recruit.cookpad.com/)                                       | Tokyo (Shibuya-ku)               | Web, Mobile                           |                              |
 | [Crowdworks](https://crowdworks.co.jp/company#recruit)                        | Tokyo (Shibuya-ku)               | Crowdsourcing                         |                              |
 | [CyberAgent](https://www.cyberagent.co.jp/recruit/)                           | Tokyo                            | Ads, B2B Services                     |                              |
@@ -109,6 +110,7 @@
 * [Wantedly](https://www.wantedly.com/) - Lots of start-up jobs and some from bigger companies; literally just click a button to contact companies
 * [Hacker News job threads](https://news.ycombinator.com/item?id=12846216) - Lots of remote job opportunities; search Google for current month
 * [Indeed](http://jp.indeed.com/)
+* [Justa](http://justa.io/) - A lot of start-up jobs listed. 
 
 #### <a name="remote">Remote work</a>
 * [Companies that allow remote work in Japan](https://github.com/uiureo/remote-in-japan/blob/master/README.en.md)
