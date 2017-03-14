@@ -21,7 +21,6 @@
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan)         | Tokyo (Shinagawa-ku)             | Multiple sectors                      |                              |
 | [Barclays](http://joinus.barclays.com/japan/)                                 | Tokyo (Minato-ku)                | Finance                               |                              |
 | [Bizreach](http://www.bizreach.co.jp/recruit/)                                | Tokyo (Shibuya-ku)               | B2B Services, Technology R&D          |                              |
-| [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
 | [Cookpad](https://recruit.cookpad.com/)                                       | Tokyo (Shibuya-ku)               | Web, Mobile                           |                              |
 | [Crowdworks](https://crowdworks.co.jp/company#recruit)                        | Tokyo (Shibuya-ku)               | Crowdsourcing                         |                              |
 | [CyberAgent](https://www.cyberagent.co.jp/recruit/)                           | Tokyo                            | Ads, B2B Services                     |                              |
@@ -71,6 +70,7 @@
 | ----------------------------------------------------------------------------- | -------------------------------- | ------------------------------------- | ---------------------------- |
 | [Abeja](https://abeja.asia)                                                   | Tokyo (Minato-ku)                | Data Analytics                        | Yes                          |
 | [Bitflyer](https://bitflyer.jp/Recruit)                                       | Tokyo (Minato-ku)                | Block-chain, Bitcoin                  | Yes                          |
+| [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
 | [Coiney](http://coiney.com/jobs/)                                             | Tokyo (Shibuya-ku)               | Mobile                                |                              |
 | [Cross Language](http://www.crosslanguage.co.jp/company/recruit.html)         | Tokyo (Chiyoda-ku)               | Translation                           | Yes                          |
 | [Degica](https://www.degica.jp/category/jobs-ja/)                             | Tokyo (Kichijoji)                | E-commerce                            |                              |
