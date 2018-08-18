@@ -69,6 +69,7 @@
 | Company                                                                       | Location                         | Industry                              | Japanese Required?           |
 | ----------------------------------------------------------------------------- | -------------------------------- | ------------------------------------- | ---------------------------- |
 | [Abeja](https://abeja.asia)                                                   | Tokyo (Minato-ku)                | Data Analytics                        | Yes                          |
+| [Bespoke](https://www.be-spoke.io/jobs/)                                      | Tokyo (Shibuya-ku)               | Tourism-oriented chat service         | No                           |
 | [Bitflyer](https://bitflyer.jp/Recruit)                                       | Tokyo (Minato-ku)                | Block-chain, Bitcoin                  | Yes                          |
 | [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
 | [Coiney](http://coiney.com/jobs/)                                             | Tokyo (Shibuya-ku)               | Mobile                                |                              |
