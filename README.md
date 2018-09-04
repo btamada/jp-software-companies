@@ -34,7 +34,7 @@
 | [GREE](http://jobs.gree.net/jp/ja/career/)                                    | Tokyo (Minato-ku)                | Social                                | No                           |
 | [Gengo](https://angel.co/gengo-1)                                             | Tokyo (Shibuya-ku)               | Translation                           | No?                          |
 | [Gilt](https://gilt.recruiterbox.com)                                         | Tokyo                            | Retail, Web, Mobile                   | No                           |
-| [Goldman Sachs](http://www.goldmansachs.com/japan/careers/)                   | Tokyo (Minato-ku)                | Finance                               | Yes                          |
+| [Goldman Sachs](http://www.goldmansachs.com/japan/careers/)                   | Tokyo (Minato-ku)                | Finance                               | No                          |
 | [Google](https://www.google.com/about/careers/locations/tokyo/)               | Tokyo (Minato-ku)                | Multiple Sectors                      | No                           |
 | [GungHo](http://www.gungho.co.jp/recruit/)                                    | Tokyo                            | Mobile                                |                              |
 | [Gunosy](http://gunosy.co.jp/recruit/requirements/engineer/)                  | Tokyo (Minato-ku)                | Mobile, Ads                           | Yes                          |
@@ -43,7 +43,7 @@
 | [Indeed](https://www.indeed.jobs/)                                            | Tokyo (Shibuya-ku)               | Employment services                   | No                           |
 | [Interspace](https://www.interspace.ne.jp/recruit/offer/)                     | Tokyo (Minato-ku)                | Advertising                           |                              |
 | [Kakaku](http://corporate.kakaku.com/recruit)                                 | Tokyo                            | Marketplace                           | Yes                          |
-| [LINE](https://linecorp.com/ja/career/ja/all)                                 | Tokyo (Shibuya-ku); Fukuoka      | Mobile                                | Yes (Tokyo)<br/>No (Fukuoka) |
+| [LINE](https://linecorp.com/ja/career/ja/all)                                 | Tokyo (Shibuya-ku); Fukuoka; Kyoto      | Mobile                                | Yes (Tokyo)<br/>No (Fukuoka)<br/>No (Kyoto) |
 | [M3](https://corporate.m3.com/recruit/job/)                                   | Tokyo (Minato-ku)                | Healthcare                            |                              |
 | [MediWeb](http://www.mediweb.jp/job.html)                                     | Tokyo                            | Healthcare                            |                              |
 | [Mercari](https://www.mercari.com/jp/jobs/)                                   | Tokyo (Minato-ku)                | Mobile                                |                              |
