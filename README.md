@@ -92,6 +92,7 @@
 | [Pixta](https://recruit.pixta.co.jp/)                                         | Tokyo (Shibuya-ku)               | Digital Photo Marketplace             | Yes                          |
 | [Plan-B](https://www.plan-b.co.jp/recruit/)                                   | Osaka                            | Marketing, SEO                        | Yes                          |
 | [Rise UP](https://r-up.jp/recruit/)                                           | Osaka                            | Wholesale, E-commerce, Marketing      | Yes                          |
+| [SQUEEZE Inc.](https://squeeze-inc.co.jp/recruit/)                            | Tokyo (Minato-ku)                | Vacation Rental, Property Managemnet  | No                           |
 | [Treasure Data](https://www.treasuredata.com/company/careers/)                | Tokyo (Chiyoda-ku)               | Data management                       |                              |
 | [UUUM](http://www.uuum.co.jp/recruit)                                         | Tokyo (Minato-ku)                | Marketing                             | Yes                          |
 | [Voyagin](https://www.govoyagin.com/careers?lang=en)                          | Tokyo (Shibuya-ku)               | Travel                                | No?                          |
