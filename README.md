@@ -93,10 +93,12 @@
 | [Pixta](https://recruit.pixta.co.jp/)                                         | Tokyo (Shibuya-ku)               | Digital Photo Marketplace             | Yes                          |
 | [Plan-B](https://www.plan-b.co.jp/recruit/)                                   | Osaka                            | Marketing, SEO                        | Yes                          |
 | [Rise UP](https://r-up.jp/recruit/)                                           | Osaka                            | Wholesale, E-commerce, Marketing      | Yes                          |
+| [Emotion Tech](https://www.emotion-tech.co.jp/company/recruitment)            | Tokyo (Chiyoda-ku)               | Consulting                            |                              |
 | [Treasure Data](https://www.treasuredata.com/company/careers/)                | Tokyo (Chiyoda-ku)               | Data management                       |                              |
 | [UUUM](http://www.uuum.co.jp/recruit)                                         | Tokyo (Minato-ku)                | Marketing                             | Yes                          |
 | [Voyagin](https://www.govoyagin.com/careers?lang=en)                          | Tokyo (Shibuya-ku)               | Travel                                | No?                          |
 | [Wizcorp](https://wizcorp.workable.com)                                       | Tokyo (Chuo-ku)                  | Gaming                                | No                           |
+| [WOVN.io](https://wovn.io/career)                                             | Tokyo (Minato-ku)                | SaaS                                  | No                           |
 | [Yumemi](http://recruit.yumemi.co.jp/)                                        | Tokyo (Setagaya-ku)              | Consulting                            | Yes                          |
 
 ### <a name="resources">Other resources</a>
