@@ -77,6 +77,7 @@
 | [Degica](https://www.degica.jp/category/jobs-ja/)                             | Tokyo (Kichijoji)                | E-commerce                            |                              |
 | [Fixstars](http://www.fixstars.com/recruit/ja/jobcategory/)                   | Tokyo (Shinagawa-ku)             | Hardware                              | Yes                          |
 | [Freee](https://jobs.freee.co.jp/)                                            | Tokyo                            | Accounting                            |                              |
+| [Hacobu](https://hacobu.jp/)                                                  | Tokyo (Minato-ku)                | Shipping Logistics, IoT               | Yes                          |
 | [I And C-Cruise](https://www.iacc.co.jp/recruit/)                             | Tokyo (Minato-ku)                | Energy, Lifestyle                     | Yes                          |
 | [iKnow](https://iknow.jp/)                                                    | Tokyo                            | Education                             | No                           |
 | [Kaizen Platform](https://jobs.lever.co/kaizenplatform?by=location)           | Tokyo (Shinjuku-ku)              | Web Analytics                         |                              |
