@@ -53,6 +53,7 @@
 | [Nomura](https://www.nomura.co.jp/recruit/)                                   | Tokyo                            | Finance                               | Yes                          |
 | [Pixiv](http://recruit.pixiv.net/index.php)                                   | Tokyo (Shibuya-ku)               | Online Marketplace, Social            | Yes                          |
 | [Rakuten](http://global.rakuten.com/corp/careers/engineering/)                | Tokyo (Setagaya-ku)              | Multiple Sectors                      | No                           |
+| [Reaktor](https://reaktor.co.jp)                                              | Tokyo (Minato-ku)                | Consulting                            | Yes                          |
 | [Recruit](http://www.recruit.jp/employment/)                                  | Tokyo                            | Multiple Sectors                      |                              |
 | [Retty](https://corp.retty.me/recruit/)                                       | Tokyo                            | Restaurants, Mobile                   |                              |
 | [Septeni](https://www.septeni.co.jp/en/recruit/)                              | Tokyo (Shinjuku-ku)              | Marketing                             | No                           |
