@@ -123,11 +123,15 @@ Technically speaking there are three Work Visa processes -- Certificate of Eligi
 
 Before covering the process though, lets consider the types of Work Visas. Work Visas in Japan come in many types of varieties but the two types that are most relevant to IT professionals are the "Engineer" work visa type and the "Humanities" work visa type. In practice, the type of work visa you have will confine you to particular jobs and sectors. Receiving these visas can be quite difficult as well and is often outside the scope of any HR, especially a startup's HR. So companies will often employ Visa lawyers which are well versed in how the immigration-visa decision system works.
 
-##### Engineer Work Visa
+##### Engineer Work Visa(Pre-April 2015)
 The Engineer work visa grants work in highly specilized fields. Software Engineer, Systems Engineer, "Whatever" Engineer basically. This work visa type generally requires **a 4-year degree in the relevant field** to qualify for the visa OR **10 years of *professional* experience**.
 
-##### Humanities Work Visa
+##### Humanities Work Visa(Pre-April 2015)
 This visa type is kind of a catch-all wild card. This is the type of work visa you would likely receive; for instance, if you were working at an English conversation school (*eikaiwa*). The requirements for this require a **a 4-year degree** or **10 years of *professional* experience**. The type of degree can vary. You might be asking, "If I'm a programmer, why or how would I get this?" I'll cover that in the "Visa Process" section below.
+
+##### Engineer/Specialist in Humanites/International Services Visa(Post-April 2015)
+As of April 2015, the Japanese government has combined the two visa's mentioned above into one visa called the Engineer/Specialist in Humanites/International Services Visa. The kind of work you can do under this visa encompasses the work allowed in both of the previous 2 visa's combined. Some examples of work capable with this visa include Translation, Eikaiwa Teacher, Sales or Software Engineer to name a few. An in depth look on visas is provided by Paul McMahon on his well written article [Visas for Software Engineers in Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options/)
+
 
 ##### Work Visa via CoE
 The CoE route is the easiest method and its the one that most business will/**should** use.
@@ -142,7 +146,7 @@ The CoE route is the easiest method and its the one that most business will/**sh
 
 Everyone getting a job in Japan should either use this method or the Highly Skilled Professional process. The reason is that CoE speeds up the turn around time on the Visa by a lot. Plus, its less work for you. The company will however decide which type of work visa you will receive however. 
 
-To answer the question above, "Why might you have a Humanities work visa if you are a programmer?" Part of what the company will submit to immigration for the CoE, is a statement about why you are a good fit for the position and how it pertains to the requested work visa type. If you do not have a STEM degree of some sort, it can be quite difficult to receive an Engineer work visa. If you have a non-STEM degree or if you STEM degree is too far outside the realm of the job's duties, then companies can try for a Humanities visa which can give them leeway in defining the reason. As a speculative example, a company could say "we are hiring this person to aid in the development process through the use of their English/foreign language skills. They can easily read English documentation and support information better than the staff and will aid in globalization efforts at the company." This de-emphasizes the technical aspects of the role and uses your English skills. 
+To answer the question above, "Why might you have a Humanities work visa if you are a programmer?" Part of what the company will submit to immigration for the CoE, is a statement about why you are a good fit for the position and how it pertains to the requested work visa type. If you do not have a STEM degree of some sort, it can be quite difficult to receive an Engineer work visa. If you have a non-STEM degree or if you STEM degree is too far outside the realm of the job's duties, then companies can try for a Humanities visa which can give them leeway in defining the reason. As a speculative example, a company could say "we are hiring this person to aid in the development process through the use of their English/foreign language skills. They can easily read English documentation and support information better than the staff and will aid in globalization efforts at the company." This de-emphasizes the technical aspects of the role and uses your English skills. **UPDATE**: As of April 2015 all programmers/software developers will have to have the combined Engineer/Specialist in Humanites/International Services Visa regardless of their role.
 
 ##### Work Visa without a CoE
 I have personally never done this process, but I have heard it is longer and more difficult.
