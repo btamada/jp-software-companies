@@ -21,11 +21,13 @@
 | [Amazon Japan](https://www.amazon.jobs/en/locations/tokyo-area-japan)         | Tokyo (Shinagawa-ku)             | Multiple sectors                      |                              |
 | [Barclays](http://joinus.barclays.com/japan/)                                 | Tokyo (Minato-ku)                | Finance                               |                              |
 | [Bizreach](http://www.bizreach.co.jp/recruit/)                                | Tokyo (Shibuya-ku)               | B2B Services, Technology R&D          |                              |
-| [Cookpad](https://recruit.cookpad.com/)                                       | Tokyo (Shibuya-ku)               | Web, Mobile                           |                              |
+| [CaDDi](https://open.talentio.com/r/1/c/caddi-jp-recruit/homes/4139)                           | Tokyo               | Manufacturing                                | Yes  |
+| [Cookpad](https://recruit.cookpad.com/)                                       | Tokyo (Shibuya-ku)               | Web, Mobile                         |                              |
 | [Crowdworks](https://crowdworks.co.jp/company#recruit)                        | Tokyo (Shibuya-ku)               | Crowdsourcing                         |                              |
 | [CyberAgent](https://www.cyberagent.co.jp/recruit/)                           | Tokyo                            | Ads, B2B Services                     |                              |
 | [DMM](http://www.dmm.com/recruit/)                                            | Tokyo                            | E-Commerce (Video), Mobile, Education |                              |
 | [DeNa](http://dena.com/intl/careers/positions/)                               | Tokyo (Shibuya-ku)               | Primarily Mobile                      |                              |
+| [DIP](https://recruit-dip.com)                           | Tokyo (Shibuya-ku)               | IT Solutions                                | Yes  |
 | [Dwango](http://dwango.co.jp/recruit/)                                        | Tokyo                            | Telecommunications & Media            |                              |
 | [Fast Retailing](https://www.fastretailing.com/employment/ja/)                | Tokyo                            | Retail                                |                              |
 | [Finc](https://finc.com/recruit)                                              | Tokyo (Chiyoda-ku)               | Financial tech                        |                              |
@@ -51,6 +53,7 @@
 | [MoneyForward](https://recruit.moneyforward.com/)                             | Tokyo (Minato-ku)                | Ecommerce                             |                              |
 | [Morgan Stanley](http://www.morganstanley.co.jp/msinjapan/careers/index.html) | Tokyo                            | Finance                               |                              |
 | [Nomura](https://www.nomura.co.jp/recruit/)                                   | Tokyo                            | Finance                               | Yes                          |
+| [Paypay](https://about.paypay.ne.jp/career/)                                   | Tokyo                | Fintech            | No                          |
 | [Pixiv](http://recruit.pixiv.net/index.php)                                   | Tokyo (Shibuya-ku)               | Online Marketplace, Social            | Yes                          |
 | [Rakuten](http://global.rakuten.com/corp/careers/engineering/)                | Tokyo (Setagaya-ku)              | Multiple Sectors                      | No                           |
 | [Recruit](http://www.recruit.jp/employment/)                                  | Tokyo                            | Multiple Sectors                      |                              |
@@ -73,10 +76,12 @@
 | [Bitflyer](https://bitflyer.jp/Recruit)                                       | Tokyo (Minato-ku)                | Block-chain, Bitcoin                  | Yes                          |
 | [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
 | [Coiney](http://coiney.com/jobs/)                                             | Tokyo (Shibuya-ku)               | Mobile                                |                              |
+| [Credit Engine](https://joinus.creditengine.jp)                           | Tokyo (Roppongi)               | Fintech                                | Yes    |
 | [Cross Language](http://www.crosslanguage.co.jp/company/recruit.html)         | Tokyo (Chiyoda-ku)               | Translation                           | Yes                          |
 | [Degica](https://www.degica.jp/category/jobs-ja/)                             | Tokyo (Kichijoji)                | E-commerce                            |                              |
 | [Fixstars](http://www.fixstars.com/recruit/ja/jobcategory/)                   | Tokyo (Shinagawa-ku)             | Hardware                              | Yes                          |
 | [Freee](https://jobs.freee.co.jp/)                                            | Tokyo                            | Accounting                            |                              |
+| [Foriio](https://www.wantedly.com/companies/foriio)                                            | Tokyo                            | Web                            |                              |
 | [Hacobu](https://hacobu.jp/)                                                  | Tokyo (Minato-ku)                | Shipping Logistics, IoT               | Yes                          |
 | [I And C-Cruise](https://www.iacc.co.jp/recruit/)                             | Tokyo (Minato-ku)                | Energy, Lifestyle                     | Yes                          |
 | [iKnow](https://iknow.jp/)                                                    | Tokyo                            | Education                             | No                           |
@@ -97,6 +102,7 @@
 | [UUUM](http://www.uuum.co.jp/recruit)                                         | Tokyo (Minato-ku)                | Marketing                             | Yes                          |
 | [Voyagin](https://www.govoyagin.com/careers?lang=en)                          | Tokyo (Shibuya-ku)               | Travel                                | No?                          |
 | [Wizcorp](https://wizcorp.workable.com)                                       | Tokyo (Chuo-ku)                  | Gaming                                | No                           |
+| [Yaraku](https://www.yaraku.com/careers/)                                        | Tokyo (Shinjuku)              | Machine Translation, Web                            | No                          |
 | [Yumemi](http://recruit.yumemi.co.jp/)                                        | Tokyo (Setagaya-ku)              | Consulting                            | Yes                          |
 
 ### <a name="resources">Other resources</a>
@@ -109,10 +115,13 @@
 
 #### <a name="job-listings">Job listings</a>
 * [Forkwell](https://jobs.forkwell.com/jobs/search?q%5Bfreeword%5D=&q%5Bjob_tags%5D%5B%5D=&q%5Bprofessions%5D%5B%5D=&q%5Bsalary_lower%5D=&q%5Bselections%5D%5B%5D=&q%5Bsort%5D=content_salary_lower+desc&utf8=%E2%9C%93) - Sort by salary, programming language etc.
-* [Wantedly](https://www.wantedly.com/) - Lots of start-up jobs and some from bigger companies; literally just click a button to contact companies
 * [Hacker News job threads](https://news.ycombinator.com/item?id=12846216) - Lots of remote job opportunities; search Google for current month
 * [Indeed](http://jp.indeed.com/)
-* [Justa](http://justa.io/) - A lot of start-up jobs listed. 
+* [Japan Dev](https://japan-dev.com) - Tech Jobs in Japan with no English required and overseas applications allowed
+* [Justa](http://justa.io/) - A lot of start-up jobs listed.
+* [Tokyo Dev](https://www.tokyodev.com) - Lots of Software Developer jobs for English speakers, some with visa support and relocation offered
+* [Wantedly](https://www.wantedly.com/) - Lots of start-up jobs and some from bigger companies; literally just click a button to contact companies
+
 
 #### <a name="remote">Remote work</a>
 * [Companies that allow remote work in Japan](https://github.com/uiureo/remote-in-japan/blob/master/README.en.md)
